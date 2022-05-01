@@ -51,7 +51,7 @@ padding-right: 350px;}
                          float: right;} 
                          .tri{
                              padding-left: 100px ;
-                            padding-bottom: 30px;
+                            padding-bottom: 60px;
                             margin-top: -60px;
                          }
                          .tri2{
@@ -61,16 +61,12 @@ padding-right: 350px;}
                          }
                          
                         .more-articles {
-                            border-top: 1px solid #ffffff;
-                            margin-left: 100px;
-                            margin-right: 250px;
-                        margin-top: 20px;
-                    padding-left: 40px;}
+                    margin-left: 170px;}
                        
                        .more-articles p {
                         border-bottom: 1px solid #807c72;
                         padding-right: 50px;
-                        padding: 5px 0px 15px 0px;
+                        padding: 5px 15px 15px 15px;
 
                         font-size: 80%;}
                         .more-articles p:last-child {
