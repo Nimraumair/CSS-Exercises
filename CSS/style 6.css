@@ -28,7 +28,7 @@ text-align: right;
 padding-right: 170px;}
         
 .wrapper {
-width: 960px;
+width: 1060px;
 margin: 0px auto;
 background-repeat: no-repeat;
 background-position: 0px 0px;
@@ -50,15 +50,22 @@ padding-right: 350px;}
                     .date{
                          float: right;} 
                          .tri{
-                            padding-left: 70px;
-                            padding-bottom: 30px; 
+                             padding-left: 100px ;
+                            padding-bottom: 30px;
+                            margin-top: -60px;
+                         }
+                         .tri2{
+                            z-index: -1px; 
+                            position: absolute;
+                            margin-top: -190px;
                          }
                          
                         .more-articles {
                             border-top: 1px solid #ffffff;
                             margin-left: 100px;
-                            margin-right: 80px;
-                            padding: 10px;}
+                            margin-right: 250px;
+                        margin-top: 20px;
+                    padding-left: 40px;}
                        
                        .more-articles p {
                         border-bottom: 1px solid #807c72;
